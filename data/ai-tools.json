@@ -1,31 +1,293 @@
 [
     {
-      "id": "openai",
-      "title": "OpenAI",
-      "url": "https://openai.com",
-      "description": "AI research lab consisting of the for-profit corporation OpenAI LP and its parent company",
-      "category": "ai-tools",
-      "tags": ["ai", "machine-learning", "research"],
-      "dateAdded": "2023-04-01",
-      "featured": true
+        "id": "huggingface",
+        "title": "Hugging Face",
+        "url": "https://huggingface.co",
+        "description": "Collection of free AIs for various applications including 3D model generation.",
+        "category": "ai-tools",
+        "tags": ["ai", "3d-models", "free"],
+        "dateAdded": "2023-10-01",
+        "featured": true,
+        "pricing": "free"
     },
     {
-      "id": "huggingface",
-      "title": "Hugging Face",
-      "url": "https://huggingface.co",
-      "description": "AI community building the future of artificial intelligence through open source and open science",
-      "category": "ai-tools",
-      "tags": ["ai", "machine-learning", "community", "open-source"],
-      "dateAdded": "2023-04-05"
+        "id": "midjourney",
+        "title": "Midjourney",
+        "url": "https://midjourney.com",
+        "description": "Good for inspiration and seamless textures.",
+        "category": "ai-tools",
+        "tags": ["ai", "image-generation", "creativity"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$10/month"
     },
     {
-      "id": "midjourney",
-      "title": "Midjourney",
-      "url": "https://midjourney.com",
-      "description": "AI-powered tool that generates images from textual descriptions",
-      "category": "ai-tools",
-      "tags": ["ai", "image-generation", "creativity"],
-      "dateAdded": "2023-04-10"
+        "id": "runwayml",
+        "title": "Runway ML",
+        "url": "https://runwayml.com",
+        "description": "Endless video generation and editing capabilities.",
+        "category": "ai-tools",
+        "tags": ["ai", "video-generation", "editing"],
+        "dateAdded": "2023-10-01",
+        "pricing": "1 token"
+    },
+    {
+        "id": "seelab",
+        "title": "Seelab",
+        "url": "https://seelab.com",
+        "description": "Excellent at removing objects from images.",
+        "category": "ai-tools",
+        "tags": ["ai", "image-editing", "object-removal"],
+        "dateAdded": "2023-10-01",
+        "pricing": "daily tokens"
+    },
+    {
+        "id": "firefly",
+        "title": "Firefly",
+        "url": "https://adobe.com/firefly",
+        "description": "Free for Adobe users, focused on image generation.",
+        "category": "ai-tools",
+        "tags": ["ai", "image-generation", "adobe"],
+        "dateAdded": "2023-10-01",
+        "pricing": "free for Adobe users"
+    },
+    {
+        "id": "skybox",
+        "title": "Skybox",
+        "url": "https://skybox.com",
+        "description": "Create 360° immersive worlds from text.",
+        "category": "ai-tools",
+        "tags": ["ai", "3d-models", "immersive"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$10/month"
+    },
+    {
+        "id": "claudeai",
+        "title": "Claude AI",
+        "url": "https://claude.ai",
+        "description": "AI assistant that sees your screen.",
+        "category": "ai-tools",
+        "tags": ["ai", "assistant", "screen"],
+        "dateAdded": "2023-10-01",
+        "pricing": "limited"
+    },
+    {
+        "id": "cartwheel",
+        "title": "Cart Wheel",
+        "url": "https://cartwheel.com",
+        "description": "Create animated characters (in beta).",
+        "category": "ai-tools",
+        "tags": ["ai", "animation", "characters"],
+        "dateAdded": "2023-10-01",
+        "pricing": "free"
+    },
+    {
+        "id": "grok",
+        "title": "Grok",
+        "url": "https://grok.com",
+        "description": "Combine different AI models into your creation.",
+        "category": "ai-tools",
+        "tags": ["ai", "model-combination", "creation"],
+        "dateAdded": "2023-10-01",
+        "pricing": "free"
+    },
+    {
+        "id": "dreamina",
+        "title": "Dreamina",
+        "url": "https://dreamina.com",
+        "description": "AI tool with an editor for image generation.",
+        "category": "ai-tools",
+        "tags": ["ai", "image-generation", "editor"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$1/month"
+    },
+    {
+        "id": "pifuhd",
+        "title": "PIFuHD",
+        "url": "https://pifuhd.com",
+        "description": "Human 3D model generation.",
+        "category": "ai-tools",
+        "tags": ["ai", "3d-models", "human"],
+        "dateAdded": "2023-10-01",
+        "pricing": "free"
+    },
+    {
+        "id": "visualelectric",
+        "title": "Visual Electric",
+        "url": "https://visualelectric.com",
+        "description": "Tools for designers.",
+        "category": "ai-tools",
+        "tags": ["ai", "design", "tools"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$10/month"
+    },
+    {
+        "id": "klingai",
+        "title": "Kling AI",
+        "url": "https://klingai.com",
+        "description": "AI tool for various applications.",
+        "category": "ai-tools",
+        "tags": ["ai", "applications", "tools"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$5/month"
+    },
+    {
+        "id": "glif",
+        "title": "Glif",
+        "url": "https://glif.com",
+        "description": "Free video and image generation.",
+        "category": "ai-tools",
+        "tags": ["ai", "video-generation", "image-generation"],
+        "dateAdded": "2023-10-01",
+        "pricing": "free"
+    },
+    {
+        "id": "edenx",
+        "title": "EdenX",
+        "url": "https://edenx.com",
+        "description": "Create characters, stories, and movies.",
+        "category": "ai-tools",
+        "tags": ["ai", "storytelling", "characters"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$1/month"
+    },
+    {
+        "id": "higgsfield",
+        "title": "Higgsfield",
+        "url": "https://higgsfield.com",
+        "description": "High control of camera style and movement.",
+        "category": "ai-tools",
+        "tags": ["ai", "video", "camera"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$10/month"
+    },
+    {
+        "id": "pikalabs",
+        "title": "Pika Labs",
+        "url": "https://pikalabs.com",
+        "description": "Make two people from different images interact.",
+        "category": "ai-tools",
+        "tags": ["ai", "image-interaction", "creativity"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$5/month"
+    },
+    {
+        "id": "flair",
+        "title": "Flair",
+        "url": "https://flair.com",
+        "description": "Photoshoot of your product image.",
+        "category": "ai-tools",
+        "tags": ["ai", "product-photography", "image"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$10/month"
+    },
+    {
+        "id": "clipanything",
+        "title": "Clipanything",
+        "url": "https://clipanything.com",
+        "description": "Creates short clips from long videos.",
+        "category": "ai-tools",
+        "tags": ["ai", "video-editing", "clip"],
+        "dateAdded": "2023-10-01",
+        "pricing": "free"
+    },
+    {
+        "id": "magicloops",
+        "title": "Magic Loops",
+        "url": "https://magicloops.com",
+        "description": "Create automatic stacks and tasks.",
+        "category": "ai-tools",
+        "tags": ["ai", "automation", "tasks"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$1/month"
+    },
+    {
+        "id": "tost",
+        "title": "Tost",
+        "url": "https://tost.com",
+        "description": "Free AIs for image, video, and 3D generation.",
+        "category": "ai-tools",
+        "tags": ["ai", "image-generation", "video-generation"],
+        "dateAdded": "2023-10-01",
+        "pricing": "free"
+    },
+    {
+        "id": "mistral",
+        "title": "Mistral",
+        "url": "https://mistral.com",
+        "description": "AI tool for various applications.",
+        "category": "ai-tools",
+        "tags": ["ai", "applications", "tools"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$5/month"
+    },
+    {
+        "id": "venice",
+        "title": "Venice",
+        "url": "https://venice.com",
+        "description": "Uncensored image generator.",
+        "category": "ai-tools",
+        "tags": ["ai", "image-generation", "uncensored"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$10/month"
+    },
+    {
+        "id": "polloai",
+        "title": "Pollo AI",
+        "url": "https://polloai.com",
+        "description": "Text to video and image generation.",
+        "category": "ai-tools",
+        "tags": ["ai", "text-to-video", "image-generation"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$1/month"
+    },
+    {
+        "id": "sora",
+        "title": "Sora",
+        "url": "https://sora.com",
+        "description": "50 videos/month with ChatGPT subscription.",
+        "category": "ai-tools",
+        "tags": ["ai", "video-generation", "subscription"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$10/month"
+    },
+    {
+        "id": "gendo",
+        "title": "Gendo",
+        "url": "https://gendo.com",
+        "description": "Interior design AI.",
+        "category": "ai-tools",
+        "tags": ["ai", "interior-design", "design"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$1/month"
+    },
+    {
+        "id": "stepfun",
+        "title": "Step Fun",
+        "url": "https://stepfun.com",
+        "description": "Open source tool for various applications.",
+        "category": "ai-tools",
+        "tags": ["ai", "open-source", "applications"],
+        "dateAdded": "2023-10-01",
+        "pricing": "free"
+    },
+    {
+        "id": "museai",
+        "title": "Muses AI",
+        "url": "https://musesai.com",
+        "description": "Generate podcasts based on uploaded text.",
+        "category": "ai-tools",
+        "tags": ["ai", "podcast", "text"],
+        "dateAdded": "2023-10-01",
+        "pricing": "$5/month"
+    },
+    {
+        "id": "notebooklm",
+        "title": "NotebookLM",
+        "url": "https://notebooklm.com",
+        "description": "Generate podcasts in English based on uploaded text.",
+        "category": "ai-tools",
+        "tags": ["ai", "podcast", "text"],
+        "dateAdded": "2023-10-01",
+        "pricing": "free"
     }
-  ]
-  
+]
