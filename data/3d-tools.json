@@ -1,0 +1,31 @@
+[
+    {
+      "id": "blender",
+      "title": "Blender",
+      "url": "https://blender.org",
+      "description": "Free and open source 3D creation suite supporting the entirety of the 3D pipeline",
+      "category": "3d-tools",
+      "tags": ["3d", "modeling", "animation", "open-source"],
+      "dateAdded": "2023-02-10",
+      "featured": true
+    },
+    {
+      "id": "sketchfab",
+      "title": "Sketchfab",
+      "url": "https://sketchfab.com",
+      "description": "Platform to publish, share, and discover 3D content on web, mobile, AR, and VR",
+      "category": "3d-tools",
+      "tags": ["3d", "showcase", "community"],
+      "dateAdded": "2023-02-15"
+    },
+    {
+      "id": "spline",
+      "title": "Spline",
+      "url": "https://spline.design",
+      "description": "Design tool for creating 3D web experiences",
+      "category": "3d-tools",
+      "tags": ["3d", "web", "design"],
+      "dateAdded": "2023-03-01"
+    }
+  ]
+  

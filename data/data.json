@@ -1,0 +1,205 @@
+{
+    "websites": [
+      {
+        "id": "figma",
+        "title": "Figma",
+        "url": "https://figma.com",
+        "description": "Collaborative interface design tool that's taking over the design world",
+        "category": "design-tools",
+        "tags": ["design", "collaboration", "prototyping"],
+        "dateAdded": "2023-01-15",
+        "featured": true
+      },
+      {
+        "id": "canva",
+        "title": "Canva",
+        "url": "https://canva.com",
+        "description": "Graphic design platform for creating social media graphics, presentations, posters, and other visual content",
+        "category": "design-tools",
+        "tags": ["design", "templates", "graphics"],
+        "dateAdded": "2023-01-20"
+      },
+      {
+        "id": "dribbble",
+        "title": "Dribbble",
+        "url": "https://dribbble.com",
+        "description": "Design inspiration and portfolio platform for designers",
+        "category": "design-tools",
+        "tags": ["inspiration", "portfolio", "community"],
+        "dateAdded": "2023-02-05"
+      },
+      {
+        "id": "blender",
+        "title": "Blender",
+        "url": "https://blender.org",
+        "description": "Free and open source 3D creation suite supporting the entirety of the 3D pipeline",
+        "category": "3d-tools",
+        "tags": ["3d", "modeling", "animation", "open-source"],
+        "dateAdded": "2023-02-10",
+        "featured": true
+      },
+      {
+        "id": "sketchfab",
+        "title": "Sketchfab",
+        "url": "https://sketchfab.com",
+        "description": "Platform to publish, share, and discover 3D content on web, mobile, AR, and VR",
+        "category": "3d-tools",
+        "tags": ["3d", "showcase", "community"],
+        "dateAdded": "2023-02-15"
+      },
+      {
+        "id": "spline",
+        "title": "Spline",
+        "url": "https://spline.design",
+        "description": "Design tool for creating 3D web experiences",
+        "category": "3d-tools",
+        "tags": ["3d", "web", "design"],
+        "dateAdded": "2023-03-01"
+      },
+      {
+        "id": "unity",
+        "title": "Unity",
+        "url": "https://unity.com",
+        "description": "Real-time development platform for games, automotive, architecture, and more",
+        "category": "game-dev-tools",
+        "tags": ["game-engine", "3d", "2d", "development"],
+        "dateAdded": "2023-03-10",
+        "featured": true
+      },
+      {
+        "id": "unreal-engine",
+        "title": "Unreal Engine",
+        "url": "https://unrealengine.com",
+        "description": "Advanced real-time 3D creation tool for photoreal visuals and immersive experiences",
+        "category": "game-dev-tools",
+        "tags": ["game-engine", "3d", "development"],
+        "dateAdded": "2023-03-15"
+      },
+      {
+        "id": "godot",
+        "title": "Godot Engine",
+        "url": "https://godotengine.org",
+        "description": "Free and open source 2D and 3D game engine",
+        "category": "game-dev-tools",
+        "tags": ["game-engine", "open-source", "2d", "3d"],
+        "dateAdded": "2023-03-20"
+      },
+      {
+        "id": "openai",
+        "title": "OpenAI",
+        "url": "https://openai.com",
+        "description": "AI research lab consisting of the for-profit corporation OpenAI LP and its parent company",
+        "category": "ai-tools",
+        "tags": ["ai", "machine-learning", "research"],
+        "dateAdded": "2023-04-01",
+        "featured": true
+      },
+      {
+        "id": "huggingface",
+        "title": "Hugging Face",
+        "url": "https://huggingface.co",
+        "description": "AI community building the future of artificial intelligence through open source and open science",
+        "category": "ai-tools",
+        "tags": ["ai", "machine-learning", "community", "open-source"],
+        "dateAdded": "2023-04-05"
+      },
+      {
+        "id": "midjourney",
+        "title": "Midjourney",
+        "url": "https://midjourney.com",
+        "description": "AI-powered tool that generates images from textual descriptions",
+        "category": "ai-tools",
+        "tags": ["ai", "image-generation", "creativity"],
+        "dateAdded": "2023-04-10"
+      },
+      {
+        "id": "notion",
+        "title": "Notion",
+        "url": "https://notion.so",
+        "description": "All-in-one workspace for notes, tasks, wikis, and databases",
+        "category": "productivity",
+        "tags": ["notes", "organization", "collaboration"],
+        "dateAdded": "2023-04-15",
+        "featured": true
+      },
+      {
+        "id": "trello",
+        "title": "Trello",
+        "url": "https://trello.com",
+        "description": "Visual tool for organizing work and tracking project progress",
+        "category": "productivity",
+        "tags": ["project-management", "kanban", "organization"],
+        "dateAdded": "2023-04-20"
+      },
+      {
+        "id": "obsidian",
+        "title": "Obsidian",
+        "url": "https://obsidian.md",
+        "description": "Powerful knowledge base that works on top of a local folder of plain text Markdown files",
+        "category": "productivity",
+        "tags": ["notes", "markdown", "knowledge-base"],
+        "dateAdded": "2023-04-25"
+      },
+      {
+        "id": "mdn",
+        "title": "MDN Web Docs",
+        "url": "https://developer.mozilla.org",
+        "description": "Resources for developers, by developers, documenting web technologies",
+        "category": "learning-resources",
+        "tags": ["documentation", "web-development", "reference"],
+        "dateAdded": "2023-05-01",
+        "featured": true
+      },
+      {
+        "id": "freecodecamp",
+        "title": "freeCodeCamp",
+        "url": "https://freecodecamp.org",
+        "description": "Nonprofit organization that helps people learn to code for free",
+        "category": "learning-resources",
+        "tags": ["coding", "tutorials", "free"],
+        "dateAdded": "2023-05-05"
+      },
+      {
+        "id": "coursera",
+        "title": "Coursera",
+        "url": "https://coursera.org",
+        "description": "Online learning platform with courses, certificates, and degrees from universities and companies",
+        "category": "learning-resources",
+        "tags": ["courses", "education", "certificates"],
+        "dateAdded": "2023-05-10"
+      }
+    ],
+    "categories": [
+      {
+        "id": "design-tools",
+        "name": "Design Tools",
+        "description": "Resources for UI/UX design, graphic design, and visual creation"
+      },
+      {
+        "id": "3d-tools",
+        "name": "3D Tools",
+        "description": "Software and platforms for 3D modeling, rendering, and animation"
+      },
+      {
+        "id": "game-dev-tools",
+        "name": "Game Dev Tools",
+        "description": "Game engines, assets, and resources for game development"
+      },
+      {
+        "id": "ai-tools",
+        "name": "AI Tools",
+        "description": "Machine learning, generative AI, and automation tools"
+      },
+      {
+        "id": "productivity",
+        "name": "Productivity",
+        "description": "Tools to enhance workflow and boost productivity"
+      },
+      {
+        "id": "learning-resources",
+        "name": "Learning Resources",
+        "description": "Tutorials, courses, and educational platforms"
+      }
+    ]
+  }
+  

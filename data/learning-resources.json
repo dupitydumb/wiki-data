@@ -1,0 +1,31 @@
+[
+    {
+      "id": "mdn",
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org",
+      "description": "Resources for developers, by developers, documenting web technologies",
+      "category": "learning-resources",
+      "tags": ["documentation", "web-development", "reference"],
+      "dateAdded": "2023-05-01",
+      "featured": true
+    },
+    {
+      "id": "freecodecamp",
+      "title": "freeCodeCamp",
+      "url": "https://freecodecamp.org",
+      "description": "Nonprofit organization that helps people learn to code for free",
+      "category": "learning-resources",
+      "tags": ["coding", "tutorials", "free"],
+      "dateAdded": "2023-05-05"
+    },
+    {
+      "id": "coursera",
+      "title": "Coursera",
+      "url": "https://coursera.org",
+      "description": "Online learning platform with courses, certificates, and degrees from universities and companies",
+      "category": "learning-resources",
+      "tags": ["courses", "education", "certificates"],
+      "dateAdded": "2023-05-10"
+    }
+  ]
+  

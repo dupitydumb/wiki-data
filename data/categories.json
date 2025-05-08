@@ -1,0 +1,33 @@
+[
+    {
+      "id": "design-tools",
+      "name": "Design Tools",
+      "description": "Resources for UI/UX design, graphic design, and visual creation"
+    },
+    {
+      "id": "3d-tools",
+      "name": "3D Tools",
+      "description": "Software and platforms for 3D modeling, rendering, and animation"
+    },
+    {
+      "id": "game-dev-tools",
+      "name": "Game Dev Tools",
+      "description": "Game engines, assets, and resources for game development"
+    },
+    {
+      "id": "ai-tools",
+      "name": "AI Tools",
+      "description": "Machine learning, generative AI, and automation tools"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity",
+      "description": "Tools to enhance workflow and boost productivity"
+    },
+    {
+      "id": "learning-resources",
+      "name": "Learning Resources",
+      "description": "Tutorials, courses, and educational platforms"
+    }
+  ]
+  

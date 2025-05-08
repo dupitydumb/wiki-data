@@ -1,0 +1,31 @@
+[
+    {
+      "id": "figma",
+      "title": "Figma",
+      "url": "https://figma.com",
+      "description": "Collaborative interface design tool that's taking over the design world",
+      "category": "design-tools",
+      "tags": ["design", "collaboration", "prototyping"],
+      "dateAdded": "2023-01-15",
+      "featured": true
+    },
+    {
+      "id": "canva",
+      "title": "Canva",
+      "url": "https://canva.com",
+      "description": "Graphic design platform for creating social media graphics, presentations, posters, and other visual content",
+      "category": "design-tools",
+      "tags": ["design", "templates", "graphics"],
+      "dateAdded": "2023-01-20"
+    },
+    {
+      "id": "dribbble",
+      "title": "Dribbble",
+      "url": "https://dribbble.com",
+      "description": "Design inspiration and portfolio platform for designers",
+      "category": "design-tools",
+      "tags": ["inspiration", "portfolio", "community"],
+      "dateAdded": "2023-02-05"
+    }
+  ]
+  

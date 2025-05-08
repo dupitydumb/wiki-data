@@ -1,0 +1,31 @@
+[
+    {
+      "id": "notion",
+      "title": "Notion",
+      "url": "https://notion.so",
+      "description": "All-in-one workspace for notes, tasks, wikis, and databases",
+      "category": "productivity",
+      "tags": ["notes", "organization", "collaboration"],
+      "dateAdded": "2023-04-15",
+      "featured": true
+    },
+    {
+      "id": "trello",
+      "title": "Trello",
+      "url": "https://trello.com",
+      "description": "Visual tool for organizing work and tracking project progress",
+      "category": "productivity",
+      "tags": ["project-management", "kanban", "organization"],
+      "dateAdded": "2023-04-20"
+    },
+    {
+      "id": "obsidian",
+      "title": "Obsidian",
+      "url": "https://obsidian.md",
+      "description": "Powerful knowledge base that works on top of a local folder of plain text Markdown files",
+      "category": "productivity",
+      "tags": ["notes", "markdown", "knowledge-base"],
+      "dateAdded": "2023-04-25"
+    }
+  ]
+  
