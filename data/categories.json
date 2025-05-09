@@ -126,6 +126,26 @@
         "id": "API development",
         "name": "API Development",
         "description": "Tools for building and managing APIs"
+      },
+      {
+        "id": "learning-platform",
+        "name": "Learning Platform",
+        "description": "Tools for learning web development"
+      },
+      {
+        "id": "tools",
+        "name": "Tools",
+        "description": "Tools for web development"
+      },
+      {
+        "id": "resources",
+        "name": "Resources",
+        "description": "Resources for web development"
+      },
+      {
+        "id": "practice-platform",
+        "name": "Practice Platform",
+        "description": "Platforms for practicing web development skills"
       }
     ]
   },
