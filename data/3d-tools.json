@@ -5,27 +5,88 @@
       "url": "https://blender.org",
       "description": "Free and open source 3D creation suite supporting the entirety of the 3D pipeline",
       "category": "3d-tools",
+      "subcategory": "3d-modeling",
       "tags": ["3d", "modeling", "animation", "open-source"],
       "dateAdded": "2023-02-10",
       "featured": true
     },
     {
-      "id": "sketchfab",
-      "title": "Sketchfab",
-      "url": "https://sketchfab.com",
-      "description": "Platform to publish, share, and discover 3D content on web, mobile, AR, and VR",
+      "id": "autodesk-maya",
+      "title": "Autodesk Maya",
+      "url": "https://www.autodesk.com/products/maya/overview",
+      "description": "3D modeling, animation, and rendering software for film, TV, and game development",
       "category": "3d-tools",
-      "tags": ["3d", "showcase", "community"],
-      "dateAdded": "2023-02-15"
+      "subcategory": "3d-modeling",
+      "tags": ["3d", "modeling", "animation", "paid"],
+      "dateAdded": "2023-03-15",
+      "featured": false
     },
     {
-      "id": "spline",
-      "title": "Spline",
-      "url": "https://spline.design",
-      "description": "Design tool for creating 3D web experiences",
+      "id": "cinema-4d",
+      "title": "Cinema 4D",
+      "url": "https://www.maxon.net/en/cinema-4d/",
+      "description": "Professional 3D modeling, animation, and rendering software for motion graphics and visual effects",
       "category": "3d-tools",
-      "tags": ["3d", "web", "design"],
-      "dateAdded": "2023-03-01"
+      "subcategory": "3d-modeling",
+      "tags": ["3d", "modeling", "animation", "paid"],
+      "dateAdded": "2023-04-20",
+      "featured": false
+    },
+    {
+      "id": "zbrush",
+      "title": "ZBrush",
+      "url": "https://pixologic.com/zbrush/",
+      "description": "Digital sculpting tool that combines 3D/2.5D modeling, texturing, and painting",
+      "category": "3d-tools",
+      "subcategory": "3d-modeling",
+      "tags": ["3d", "sculpting", "texturing", "paid"],
+      "dateAdded": "",
+      "featured": false
+    },
+    {
+      "id": "3ds-max",
+      "title": "Autodesk 3ds Max",
+      "url": "https://www.autodesk.com/products/3ds-max/overview",
+      "description": "3D modeling, animation, and rendering software for games and film",
+      "category": "3d-tools",
+      "subcategory": "3d-modeling",
+      "tags": ["3d", "modeling", "animation", "paid"],
+      "dateAdded": "",
+      "featured": false
+    },
+    {
+      "id": "octane-render",
+      "title": "Octane Render",
+      "url": "https://home.otoy.com/render/octane-render/",
+      "description": "Real-time 3D rendering software with a focus on speed and quality",
+      "category": "3d-tools",
+      "subcategory": "3d-rendering",
+      "tags": ["rendering", "real-time", "paid"],
+      "dateAdded": "",
+      "featured": false
+    },
+    {
+      "id": "keyshot",
+      "title": "KeyShot",
+      "url": "https://www.keyshot.com/",
+      "description": "Real-time 3D rendering and animation software",
+      "category": "3d-tools",
+      "subcategory": "3d-rendering",
+      "tags": ["rendering", "animation", "paid"],
+      "dateAdded": "",
+      "featured": false
+    },
+    {
+      "id": "substance-painter",
+      "title": "Substance Painter",
+      "url": "https://www.adobe.com/products/substance-painter.html",
+      "description": "3D painting software for texturing and material authoring",
+      "category": "3d-tools",
+      "subcategory": "3d-modeling",
+      "tags": ["texturing", "painting", "paid"],
+      "dateAdded": "",
+      "featured": false
     }
+    
   ]
   

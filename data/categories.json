@@ -74,5 +74,81 @@
         "description": "Tools for tracking time and improving focus"
       }
     ]
+  },
+  {
+    "id": "3D-tools",
+    "name": "3D Tools",
+    "description": "Tools for 3D modeling, animation, and rendering",
+    "subcategories": [
+      {
+        "id": "3d-modeling",
+        "name": "3D Modeling",
+        "description": "Tools for creating 3D models and assets"
+      },
+      {
+        "id": "3d-animation",
+        "name": "3D Animation",
+        "description": "Tools for animating 3D models and scenes"
+      },
+      {
+        "id": "3d-rendering",
+        "name": "3D Rendering",
+        "description": "Tools for rendering 3D scenes and animations"
+      }
+    ]
+  },
+  {
+    "id": "web-development",
+    "name": "Web Development",
+    "description": "Tools for web development, design, and optimization",
+    "subcategories": [
+      {
+        "id": "frontend-development",
+        "name": "Frontend Development",
+        "description": "Tools for building the client-side of web applications"
+      },
+      {
+        "id": "backend-development",
+        "name": "Backend Development",
+        "description": "Tools for building the server-side of web applications"
+      },
+      {
+        "id": "fullstack-development",
+        "name": "Fullstack Development",
+        "description": "Tools for building both client-side and server-side applications"
+      },
+      {
+        "id": "web-design",
+        "name": "Web Design",
+        "description": "Tools for designing websites and web applications"
+      },
+      {
+        "id": "API development",
+        "name": "API Development",
+        "description": "Tools for building and managing APIs"
+      }
+    ]
+  },
+  {
+    "id": "game-development",
+    "name": "Game Development",
+    "description": "Tools for game design, development, and publishing",
+    "subcategories": [
+      {
+        "id": "game-design",
+        "name": "Game Design",
+        "description": "Tools for designing game mechanics and levels"
+      },
+      {
+        "id": "game-engine",
+        "name": "Game Engine",
+        "description": "Tools for building and running games"
+      },
+      {
+        "id": "game-publishing",
+        "name": "Game Publishing",
+        "description": "Tools for publishing and distributing games"
+      }
+    ]
   }
 ]
