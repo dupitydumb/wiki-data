@@ -1,0 +1,98 @@
+[
+  {
+    "id": "freecodecamp",
+    "title": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org",
+    "description": "Learn to code for free with interactive lessons and projects",
+    "category": "web-development",
+    "subcategory": "learning-platform",
+    "tags": ["coding", "web-development", "free", "education"],
+    "dateAdded": "2023-05-01",
+    "featured": true,
+    "pricing": "free"
+  },
+  {
+    "id": "w3schools",
+    "title": "W3Schools",
+    "url": "https://www.w3schools.com",
+    "description": "Web development tutorials for beginners and professionals",
+    "category": "web-development",
+    "subcategory": "learning-platform",
+    "tags": ["html", "css", "javascript", "tutorials"],
+    "dateAdded": "2023-04-20",
+    "featured": false,
+    "pricing": "free"
+  },
+  {
+    "id": "css-tricks",
+    "title": "CSS-Tricks",
+    "url": "https://css-tricks.com",
+    "description": "Tips, tricks, and techniques on using CSS effectively",
+    "category": "web-development",
+    "subcategory": "resources",
+    "tags": ["css", "design", "frontend"],
+    "dateAdded": "2023-03-10",
+    "featured": true,
+    "pricing": "free"
+  },
+  {
+    "id": "mdn-web-docs",
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org",
+    "description": "Comprehensive documentation for web standards and APIs",
+    "category": "web-development",
+    "subcategory": "documentation",
+    "tags": ["html", "css", "javascript", "api"],
+    "dateAdded": "2023-02-15",
+    "featured": true,
+    "pricing": "free"
+  },
+  {
+    "id": "frontend-mentor",
+    "title": "Frontend Mentor",
+    "url": "https://www.frontendmentor.io",
+    "description": "Practice building real-world projects with frontend challenges",
+    "category": "web-development",
+    "subcategory": "practice-platform",
+    "tags": ["frontend", "projects", "practice"],
+    "dateAdded": "2023-01-25",
+    "featured": false,
+    "pricing": "freemium"
+  },
+  {
+    "id": "codepen",
+    "title": "CodePen",
+    "url": "https://codepen.io",
+    "description": "Online code editor and community for frontend developers",
+    "category": "web-development",
+    "subcategory": "tools",
+    "tags": ["html", "css", "javascript", "sandbox"],
+    "dateAdded": "2023-03-05",
+    "featured": true,
+    "pricing": "freemium"
+  },
+  {
+    "id": "stack-overflow",
+    "title": "Stack Overflow",
+    "url": "https://stackoverflow.com",
+    "description": "Community-driven Q&A platform for developers",
+    "category": "web-development",
+    "subcategory": "community",
+    "tags": ["questions", "answers", "programming"],
+    "dateAdded": "2023-04-10",
+    "featured": true,
+    "pricing": "free"
+  },
+  {
+    "id": "smashing-magazine",
+    "title": "Smashing Magazine",
+    "url": "https://www.smashingmagazine.com",
+    "description": "Articles and resources for web designers and developers",
+    "category": "web-development",
+    "subcategory": "resources",
+    "tags": ["design", "development", "articles"],
+    "dateAdded": "2023-02-28",
+    "featured": false,
+    "pricing": "freemium"
+  }
+]
