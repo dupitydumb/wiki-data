@@ -1,33 +1,78 @@
 [
-    {
-      "id": "design-tools",
-      "name": "Design Tools",
-      "description": "Resources for UI/UX design, graphic design, and visual creation"
-    },
-    {
-      "id": "3d-tools",
-      "name": "3D Tools",
-      "description": "Software and platforms for 3D modeling, rendering, and animation"
-    },
-    {
-      "id": "game-dev-tools",
-      "name": "Game Dev Tools",
-      "description": "Game engines, assets, and resources for game development"
-    },
-    {
-      "id": "ai-tools",
-      "name": "AI Tools",
-      "description": "Machine learning, generative AI, and automation tools"
-    },
-    {
-      "id": "productivity",
-      "name": "Productivity",
-      "description": "Tools to enhance workflow and boost productivity"
-    },
-    {
-      "id": "learning-resources",
-      "name": "Learning Resources",
-      "description": "Tutorials, courses, and educational platforms"
-    }
-  ]
-  
+  {
+    "id": "ai-tools",
+    "name": "AI Tools",
+    "description": "Artificial intelligence tools and platforms for various applications",
+    "subcategories": [
+      {
+        "id": "image-generation",
+        "name": "Image Generation",
+        "description": "AI tools for creating and editing images"
+      },
+      {
+        "id": "video-generation",
+        "name": "Video Generation",
+        "description": "AI tools for creating and editing videos"
+      },
+      {
+        "id": "voice-generation",
+        "name": "Voice Generation",
+        "description": "AI tools for creating and modifying voice and audio"
+      },
+      {
+        "id": "text-generation",
+        "name": "Text Generation",
+        "description": "AI tools for creating and editing text content"
+      },
+      {
+        "id": "code-generation",
+        "name": "Code Generation",
+        "description": "AI tools for writing and optimizing code"
+      }
+    ]
+  },
+  {
+    "id": "design-tools",
+    "name": "Design Tools",
+    "description": "Tools for graphic design, UI/UX, and visual creation",
+    "subcategories": [
+      {
+        "id": "ui-design",
+        "name": "UI Design",
+        "description": "Tools for creating user interfaces"
+      },
+      {
+        "id": "graphic-design",
+        "name": "Graphic Design",
+        "description": "Tools for creating graphics and illustrations"
+      },
+      {
+        "id": "prototyping",
+        "name": "Prototyping",
+        "description": "Tools for creating interactive prototypes"
+      }
+    ]
+  },
+  {
+    "id": "productivity",
+    "name": "Productivity",
+    "description": "Tools to enhance productivity and workflow efficiency",
+    "subcategories": [
+      {
+        "id": "note-taking",
+        "name": "Note Taking",
+        "description": "Tools for taking and organizing notes"
+      },
+      {
+        "id": "task-management",
+        "name": "Task Management",
+        "description": "Tools for managing tasks and projects"
+      },
+      {
+        "id": "time-tracking",
+        "name": "Time Tracking",
+        "description": "Tools for tracking time and improving focus"
+      }
+    ]
+  }
+]
